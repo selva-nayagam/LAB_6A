@@ -1,0 +1,8 @@
+hai 
+how are you 
+we are trying to learn git branch 
+for creating branch
+git checkout -b develope
+to see the which branch we are using
+git branch
+then do git add *,commit,push the code to repository
