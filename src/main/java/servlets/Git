@@ -17,9 +17,7 @@ then do git add *,commit,push the code to repository
 9
 10
 11
-12
-13
-14
+
 
 alpha
 a
@@ -30,3 +28,6 @@ e
 f
 g
 h
+i
+j
+k
